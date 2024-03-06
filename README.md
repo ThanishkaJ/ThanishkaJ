@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThanishkaJ
-- 👀 I’m interested in Artificial Interrligence
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
